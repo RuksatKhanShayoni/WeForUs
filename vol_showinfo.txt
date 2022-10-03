@@ -1,0 +1,22 @@
+
+
+						USER ID : oli
+
+						NAME : oli
+
+						AGE : oli
+
+						SEX : 21
+
+						HEIGHT : male
+
+						WEIGHT : 5.9
+
+						BLOOD GROUP : 65
+
+						CONTACT NUMBER : A+
+
+						LOCATION : 01999149300
+
+						DISEASE : dhaka
+

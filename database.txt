@@ -1,0 +1,2 @@
+oli	oli	21	male	5,9	65	A+	01999149300	Dhaka	no
+araf	araf	23	male	5.8	90	A+	0189993939	dhaka	HIV	

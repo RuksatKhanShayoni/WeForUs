@@ -1,0 +1,7 @@
+
+			oli				21			male		A+		01999149300		dhaka
+
+			shayoni				15			female		O+		01766224998		dhaka
+
+			araf				23			male		A+		0189993939		dhaka
+                          
