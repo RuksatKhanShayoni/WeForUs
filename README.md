@@ -6,6 +6,3 @@ It's a health related site from where a user can easily be able to access doctor
 Admin accessibility has been made to observe the work done by volunteers and user.
 
 An ‘Emergency’ option is created where anyone can access in urgent case and see nearby hospital information or can easily find the ambulance services’ number.
-
-![image](https://user-images.githubusercontent.com/70191466/193582603-9ea4fcff-666b-446f-878d-c5450920e485.png)
-
